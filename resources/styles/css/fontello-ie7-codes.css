@@ -1,0 +1,2 @@
+
+.icon-commenting { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf27a;&nbsp;'); }
